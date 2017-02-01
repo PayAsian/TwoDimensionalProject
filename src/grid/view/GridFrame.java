@@ -21,7 +21,7 @@ public GridFrame(GridController baseController)
 public void setupFrame()
 {
 	this.setContentPane(appPanel);
-	this.setTitle("");
+	this.setTitle(" ");
 	this.setSize(new Dimension(700, 700));
 	this.setVisible(true);
 }

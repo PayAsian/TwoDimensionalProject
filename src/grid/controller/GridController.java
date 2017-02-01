@@ -7,7 +7,7 @@ public class GridController
 {
 	public void start()
 	{
-		//private GridFrame appFrame;
+		private GridFrame appFrame;
 		private Pizza [][] grid;
 		
 		public GridController()
