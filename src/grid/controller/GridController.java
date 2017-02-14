@@ -10,7 +10,7 @@ public class GridController
 		private GridFrame appFrame;
 		private Pizza [][] grid;
 		
-		public GridController()
+		public void GridController()
 		{
 			grid = new Pizza[6][5];
 			fillGrid();

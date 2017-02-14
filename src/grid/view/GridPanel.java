@@ -14,7 +14,7 @@ public class GridPanel extends JPanel
 	private JButton gridButton;
 	
 	
-	public GridPanel(GridPanel baseController)
+	public GridPanel(GridController baseController)
 	{
 		super();
 		this.gridController = gridController;
